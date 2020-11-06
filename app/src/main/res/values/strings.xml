@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Адрес доставки</string>
+    <string name="country">Выберите страну</string>
+    <string name="city">Выберите город</string>
+    <string name="house">Выберите номер дома</string>
+    <string name="ok_btn">ОК</string>
+
+    <string-array name="Countries">
+        <item>Россия</item>
+        <item>Украина</item>
+        <item>Беларусь</item>
+    </string-array>
+
+    <string-array name="RussianCities">
+        <item>Москва</item>
+        <item>Санкт-Петербург</item>
+        <item>Казань</item>
+    </string-array>
+
+    <string-array name="UkrainianCities">
+        <item>Киев</item>
+        <item>Одесса</item>
+        <item>Харьков</item>
+    </string-array>
+
+    <string-array name="BelorussianCities">
+        <item>Минск</item>
+        <item>Гомель</item>
+        <item>Торжок</item>
+    </string-array>
+</resources>
